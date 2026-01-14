@@ -281,39 +281,44 @@
       "icon": "liquor",
       "items": [
         {
-          "name": "伏特加",
+          "name": "伏特加一杯",
           "enName": "Vodka",
           "price": 150
         },
         {
-          "name": "龍舌蘭",
+          "name": "龍舌蘭一杯",
           "enName": "Tequila",
           "price": 150
         },
         {
-          "name": "梅酒",
+          "name": "梅酒一杯",
           "enName": "Plum Wine",
           "price": 150
         },
         {
-          "name": "野格",
+          "name": "調酒師特調一杯",
+          "enName": "Bartender's Special",
+          "price": 150
+        },
+        {
+          "name": "野格一杯",
           "enName": "Jägermeister",
           "price": 200
         },
         {
-          "name": "生命之水",
+          "name": "生命之水一杯",
           "enName": "Spirytus Rektyfikowany",
           "price": 250
-        },
-        {
-          "name": "調酒師特調",
-          "enName": "Bartender's Special",
-          "price": 150
         },
         {
           "name": "摩天輪",
           "enName": "Shot Wheel",
           "price": 2000
+        },
+        {
+          "name": "150元一組6杯",
+          "enName": "",
+          "price": 900
         }
       ]
     },
