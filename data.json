@@ -245,14 +245,14 @@
       "icon": "sports_bar",
       "items": [
         {
-          "name": "百威啤酒（小玻）",
-          "enName": "Budweiser Beer",
+          "name": "海尼根啤酒（小玻）",
+          "enName": "Heineken Beer",
           "price": 180,
           "note": "6瓶900"
         },
         {
-          "name": "海尼根啤酒（小玻）",
-          "enName": "Heineken Beer",
+          "name": "百威啤酒（小玻）",
+          "enName": "Budweiser Beer",
           "price": 180,
           "note": "6瓶900"
         },
@@ -263,7 +263,7 @@
           "note": "6瓶900"
         },
         {
-          "name": "可樂娜",
+          "name": "可樂娜（小玻）",
           "enName": "Corona ",
           "price": 180,
           "note": "6瓶900"
