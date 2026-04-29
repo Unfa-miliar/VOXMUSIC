@@ -139,6 +139,18 @@
           "enName": "Maker's Mark Bourbon",
           "price": 400,
           "note": "單杯"
+        },
+        {
+          "name": "軒尼斯VSOP",
+          "enName": "HENNESSY V.S.O.P (Glass)",
+          "price": 400,
+          "note": "單杯"
+        },
+        {
+          "name": "軒尼斯VSOP",
+          "enName": "HENNESSY V.S.O.P (Glass)",
+          "price": 400,
+          "note": "單杯"
         }
       ]
     },
