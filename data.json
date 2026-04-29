@@ -190,6 +190,56 @@
           "name": "季節時蔬",
           "enName": "",
           "price": 200
+        },
+        {
+          "name": "炸蚵酥",
+          "enName": "",
+          "price": 220
+        },
+        {
+          "name": "炒螺肉",
+          "enName": "",
+          "price": 280
+        },
+        {
+          "name": "客家小炒",
+          "enName": "",
+          "price": 280
+        },
+        {
+          "name": "椒鹽下巴",
+          "enName": "",
+          "price": 280
+        },
+        {
+          "name": "椒鹽龍珠",
+          "enName": "",
+          "price": 280
+        },
+        {
+          "name": "蔥爆牛肉",
+          "enName": "",
+          "price": 280
+        },
+        {
+          "name": "宮保雞丁",
+          "enName": "",
+          "price": 280
+        },
+        {
+          "name": "客家鹹豬肉",
+          "enName": "",
+          "price": 300
+        },
+        {
+          "name": "炒三鮮",
+          "enName": "",
+          "price": 300
+        },
+        {
+          "name": "香煎魚肚",
+          "enName": "",
+          "price": 380
         }
       ]
     },
