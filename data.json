@@ -1,172 +1,6 @@
 {
   "HERO_IMAGE": "",
-  "COCKTAILS": [
-    {
-      "name": "肉絲炒飯",
-      "enName": "",
-      "price": 150,
-      "id": "1777475734582",
-      "image": "https://raw.githubusercontent.com/Unfa-miliar/Unfamiliar/main/images/item_1777476848428.jpg",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "冷筍沙拉",
-      "enName": "",
-      "price": 200,
-      "id": "1777475755682",
-      "image": "https://raw.githubusercontent.com/Unfa-miliar/Unfamiliar/main/images/item_1777476973963.jpg",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "蔥蛋",
-      "enName": "",
-      "price": 200,
-      "id": "1777475774083",
-      "image": "https://raw.githubusercontent.com/Unfa-miliar/Unfamiliar/main/images/item_1777477153807.jpg",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "菜脯蛋",
-      "enName": "",
-      "price": 200,
-      "id": "1777475889599",
-      "image": "https://raw.githubusercontent.com/Unfa-miliar/Unfamiliar/main/images/item_1777477295123.jpg",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "季節時蔬",
-      "enName": "",
-      "price": 200,
-      "id": "1777475922187",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "炸蚵酥",
-      "enName": "",
-      "price": 220,
-      "id": "1777475962301",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "炒螺肉",
-      "enName": "",
-      "price": 280,
-      "id": "1777475989968",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "客家小炒",
-      "enName": "",
-      "price": 280,
-      "id": "1777476012479",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "椒鹽下巴",
-      "enName": "",
-      "price": 280,
-      "id": "1777476039890",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "椒鹽龍珠",
-      "enName": "",
-      "price": 280,
-      "id": "1777476066253",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "蔥爆牛肉",
-      "enName": "",
-      "price": 280,
-      "id": "1777476096794",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "宮保雞丁",
-      "enName": "",
-      "price": 280,
-      "id": "1777476126204",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "客家鹹豬肉",
-      "enName": "",
-      "price": 300,
-      "id": "1777476152478",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "炒三鮮",
-      "enName": "",
-      "price": 300,
-      "id": "1777476181207",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    },
-    {
-      "name": "香煎魚肚",
-      "enName": "",
-      "price": 380,
-      "id": "1777476205527",
-      "image": "",
-      "ingredients": [
-        ""
-      ],
-      "flavors": {}
-    }
-  ],
+  "COCKTAILS": [],
   "DRINK_CATEGORIES": [
     {
       "id": "beer",
@@ -287,6 +121,24 @@
           "name": "格蘭菲迪15年",
           "enName": "GLENFIDDICH 15Y",
           "price": 3800
+        },
+        {
+          "name": "約翰走路黑牌威士忌",
+          "enName": "Johnnie Walker Black Label",
+          "price": 400,
+          "note": "單杯"
+        },
+        {
+          "name": "傑克丹尼爾田納西威士忌",
+          "enName": "Jack Daniel's Tennessee Whiskey",
+          "price": 400,
+          "note": "單杯"
+        },
+        {
+          "name": "美格波本威士忌",
+          "enName": "Maker's Mark Bourbon",
+          "price": 400,
+          "note": "單杯"
         }
       ]
     },
