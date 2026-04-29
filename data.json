@@ -151,6 +151,12 @@
           "enName": "HENNESSY V.S.O.P (Glass)",
           "price": 400,
           "note": "單杯"
+        },
+        {
+          "name": "人頭馬VSOP",
+          "enName": "RÉMY MARTIN V.S.O.P (Glass)",
+          "price": 400,
+          "note": "單杯"
         }
       ]
     },
