@@ -167,29 +167,29 @@
       "icon": "glass_cup",
       "items": [
         {
-          "name": "約翰走路黑牌威士忌",
-          "enName": "Johnnie Walker Black Label",
-          "price": 400
+          "name": "肉絲蛋炒飯",
+          "enName": "",
+          "price": 150
         },
         {
-          "name": "傑克丹尼爾田納西威士忌",
-          "enName": "Jack Daniel's Tennessee Whiskey",
-          "price": 400
+          "name": "冷筍沙拉",
+          "enName": "",
+          "price": 200
         },
         {
-          "name": "美格波本威士忌",
-          "enName": "Maker's Mark Bourbon",
-          "price": 400
+          "name": "蔥蛋",
+          "enName": "",
+          "price": 200
         },
         {
-          "name": "軒尼斯VSOP",
-          "enName": "HENNESSY V.S.O.P (Glass)",
-          "price": 400
+          "name": "菜脯蛋",
+          "enName": "",
+          "price": 200
         },
         {
-          "name": "人頭馬VSOP",
-          "enName": "RÉMY MARTIN V.S.O.P (Glass)",
-          "price": 400
+          "name": "季節時蔬",
+          "enName": "",
+          "price": 200
         }
       ]
     },
