@@ -1,6 +1,172 @@
 {
   "HERO_IMAGE": "",
-  "COCKTAILS": [],
+  "COCKTAILS": [
+    {
+      "name": "肉絲炒飯",
+      "enName": "",
+      "price": 150,
+      "id": "1777475734582",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "冷筍沙拉",
+      "enName": "",
+      "price": 200,
+      "id": "1777475755682",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "蔥蛋",
+      "enName": "",
+      "price": 200,
+      "id": "1777475774083",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "菜脯蛋",
+      "enName": "",
+      "price": 200,
+      "id": "1777475889599",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "季節時蔬",
+      "enName": "",
+      "price": 200,
+      "id": "1777475922187",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "炸蚵酥",
+      "enName": "",
+      "price": 220,
+      "id": "1777475962301",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "炒螺肉",
+      "enName": "",
+      "price": 280,
+      "id": "1777475989968",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "客家小炒",
+      "enName": "",
+      "price": 280,
+      "id": "1777476012479",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "椒鹽下巴",
+      "enName": "",
+      "price": 280,
+      "id": "1777476039890",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "椒鹽龍珠",
+      "enName": "",
+      "price": 280,
+      "id": "1777476066253",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "蔥爆牛肉",
+      "enName": "",
+      "price": 280,
+      "id": "1777476096794",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "宮保雞丁",
+      "enName": "",
+      "price": 280,
+      "id": "1777476126204",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "客家鹹豬肉",
+      "enName": "",
+      "price": 300,
+      "id": "1777476152478",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "炒三鮮",
+      "enName": "",
+      "price": 300,
+      "id": "1777476181207",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    },
+    {
+      "name": "香煎魚肚",
+      "enName": "",
+      "price": 380,
+      "id": "1777476205527",
+      "image": "",
+      "ingredients": [
+        ""
+      ],
+      "flavors": {}
+    }
+  ],
   "DRINK_CATEGORIES": [
     {
       "id": "beer",
@@ -15,10 +181,9 @@
           "note": "6瓶900"
         },
         {
-          "name": "百威啤酒（小玻）",
+          "name": "百威啤酒（大玻）",
           "enName": "Budweiser Beer",
-          "price": 180,
-          "note": "6瓶900"
+          "price": 260
         },
         {
           "name": "朝日辛口啤酒（小玻）",
