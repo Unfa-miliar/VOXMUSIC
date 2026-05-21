@@ -9,21 +9,15 @@
       "icon": "sports_bar",
       "items": [
         {
-          "name": "海尼根啤酒（小玻）",
-          "enName": "Heineken Beer",
-          "price": 180,
-          "note": "6瓶900"
-        },
-        {
           "name": "百威啤酒（大玻）",
           "enName": "Budweiser Beer",
           "price": 260
         },
         {
-          "name": "朝日辛口啤酒（小玻）",
-          "enName": "Asahi Super Dry Beer",
-          "price": 180,
-          "note": "6瓶900"
+          "name": "雪山啤酒（大玻）",
+          "enName": "BUSCH Beer",
+          "price": 260,
+          "note": ""
         },
         {
           "name": "可樂娜（小玻）",
