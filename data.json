@@ -258,6 +258,13 @@
           "price": 250
         }
       ]
+    },
+    {
+      "id": "food",
+      "name": "美食",
+      "enName": "",
+      "icon": "wine_bar",
+      "items": []
     }
   ]
 }
