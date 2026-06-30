@@ -1,277 +1,402 @@
 {
-  "HERO_IMAGE": "",
-  "COCKTAILS": [],
-  "DRINK_CATEGORIES": [
-    {
-      "id": "beer",
-      "name": "啤酒",
-      "enName": "Beer",
-      "icon": "sports_bar",
-      "items": [
+    "HERO_IMAGE": "",
+    "COCKTAILS": [],
+    "DRINK_CATEGORIES": [
         {
-          "name": "百威啤酒（大玻）",
-          "enName": "Budweiser Beer",
-          "price": 260
+            "id": "beer",
+            "name": "啤酒",
+            "enName": "Beer",
+            "icon": "sports_bar",
+            "items": [
+                {
+                    "name": "百威啤酒（大玻）",
+                    "enName": "Budweiser Beer",
+                    "price": 260
+                },
+                {
+                    "name": "雪山啤酒（大玻）",
+                    "enName": "BUSCH Beer",
+                    "price": 260,
+                    "note": ""
+                },
+                {
+                    "name": "可樂娜（小玻）",
+                    "enName": "Corona ",
+                    "price": 180,
+                    "note": "6瓶900"
+                },
+                {
+                    "name": "話梅(十顆)",
+                    "enName": "Salted Plum (10 pcs)",
+                    "price": 60
+                },
+                {
+                    "name": "檸檬片(一盤)",
+                    "enName": "Lemon Slices (1 plate)",
+                    "price": 80
+                }
+            ]
         },
         {
-          "name": "雪山啤酒（大玻）",
-          "enName": "BUSCH Beer",
-          "price": 260,
-          "note": ""
+            "id": "spirits",
+            "name": "烈酒",
+            "enName": "Spirits",
+            "icon": "liquor",
+            "items": [
+                {
+                    "name": "野格香甜酒（搭紅牛四罐）",
+                    "enName": "Jägermeister (with 4 Red Bulls)",
+                    "price": 3200
+                },
+                {
+                    "name": "軒尼詩 V.S.O.P",
+                    "enName": "HENNESSY V.S.O.P",
+                    "price": 4000
+                },
+                {
+                    "name": "大摩 12年",
+                    "enName": "DALMORE 12Y",
+                    "price": 4000
+                },
+                {
+                    "name": "百富 12年",
+                    "enName": "BALVENIE 12Y",
+                    "price": 4000
+                },
+                {
+                    "name": "格蘭菲迪15年",
+                    "enName": "GLENFIDDICH 15Y",
+                    "price": 3800
+                },
+                {
+                    "name": "約翰走路黑牌威士忌",
+                    "enName": "Johnnie Walker Black Label",
+                    "price": 400,
+                    "note": "單杯"
+                },
+                {
+                    "name": "傑克丹尼爾田納西威士忌",
+                    "enName": "Jack Daniel's Tennessee Whiskey",
+                    "price": 400,
+                    "note": "單杯"
+                },
+                {
+                    "name": "美格波本威士忌",
+                    "enName": "Maker's Mark Bourbon",
+                    "price": 400,
+                    "note": "單杯"
+                },
+                {
+                    "name": "軒尼斯VSOP",
+                    "enName": "HENNESSY V.S.O.P (Glass)",
+                    "price": 400,
+                    "note": "單杯"
+                },
+                {
+                    "name": "軒尼斯VSOP",
+                    "enName": "HENNESSY V.S.O.P (Glass)",
+                    "price": 400,
+                    "note": "單杯"
+                },
+                {
+                    "name": "人頭馬VSOP",
+                    "enName": "RÉMY MARTIN V.S.O.P (Glass)",
+                    "price": 400,
+                    "note": "單杯"
+                }
+            ]
         },
         {
-          "name": "可樂娜（小玻）",
-          "enName": "Corona ",
-          "price": 180,
-          "note": "6瓶900"
+            "id": "single-shot-spirits",
+            "name": "美食佳餚",
+            "enName": "Single Shot Spirits",
+            "icon": "glass_cup",
+            "items": [
+                {
+                    "name": "肉絲蛋炒飯",
+                    "enName": "",
+                    "price": 150
+                },
+                {
+                    "name": "冷筍沙拉",
+                    "enName": "",
+                    "price": 200
+                },
+                {
+                    "name": "蔥蛋",
+                    "enName": "",
+                    "price": 200
+                },
+                {
+                    "name": "菜脯蛋",
+                    "enName": "",
+                    "price": 200
+                },
+                {
+                    "name": "季節時蔬",
+                    "enName": "",
+                    "price": 200
+                },
+                {
+                    "name": "炸蚵酥",
+                    "enName": "",
+                    "price": 220
+                },
+                {
+                    "name": "炒螺肉",
+                    "enName": "",
+                    "price": 280
+                },
+                {
+                    "name": "客家小炒",
+                    "enName": "",
+                    "price": 280
+                },
+                {
+                    "name": "椒鹽下巴",
+                    "enName": "",
+                    "price": 280
+                },
+                {
+                    "name": "椒鹽龍珠",
+                    "enName": "",
+                    "price": 280
+                },
+                {
+                    "name": "蔥爆牛肉",
+                    "enName": "",
+                    "price": 280
+                },
+                {
+                    "name": "宮保雞丁",
+                    "enName": "",
+                    "price": 280
+                },
+                {
+                    "name": "客家鹹豬肉",
+                    "enName": "",
+                    "price": 300
+                },
+                {
+                    "name": "炒三鮮",
+                    "enName": "",
+                    "price": 300
+                },
+                {
+                    "name": "香煎魚肚",
+                    "enName": "",
+                    "price": 380
+                }
+            ]
         },
         {
-          "name": "話梅(十顆)",
-          "enName": "Salted Plum (10 pcs)",
-          "price": 60
+            "id": "soft-drinks",
+            "name": "軟飲",
+            "enName": "Soft Drinks",
+            "icon": "local_drink",
+            "items": [
+                {
+                    "name": "可樂",
+                    "enName": "Coke",
+                    "price": 200
+                },
+                {
+                    "name": "雪碧",
+                    "enName": "Sprite",
+                    "price": 200
+                },
+                {
+                    "name": "蘇打水",
+                    "enName": "Soda Water",
+                    "price": 200
+                },
+                {
+                    "name": "通寧水",
+                    "enName": "Tonic Water",
+                    "price": 200
+                },
+                {
+                    "name": "柳橙汁",
+                    "enName": "Orange Juice",
+                    "price": 200
+                },
+                {
+                    "name": "蔓越莓汁",
+                    "enName": "Cranberry Juice",
+                    "price": 200
+                },
+                {
+                    "name": "蘋果汁",
+                    "enName": "Apple Juice",
+                    "price": 200
+                },
+                {
+                    "name": "無糖綠茶",
+                    "enName": "Sugar-free Green Tea",
+                    "price": 200
+                },
+                {
+                    "name": "紅茶",
+                    "enName": "Black Tea",
+                    "price": 200
+                },
+                {
+                    "name": "奶茶",
+                    "enName": "Milk Tea",
+                    "price": 250
+                },
+                {
+                    "name": "紅牛",
+                    "enName": "Red Bull",
+                    "price": 250
+                }
+            ]
         },
         {
-          "name": "檸檬片(一盤)",
-          "enName": "Lemon Slices (1 plate)",
-          "price": 80
+            "id": "food",
+            "name": "美食",
+            "enName": "",
+            "icon": "wine_bar",
+            "items": [
+                {
+                    "name": "醬燒鰻魚飯",
+                    "price": 680,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "白燒鰻魚飯",
+                    "price": 650,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "白燒鰻茶泡飯",
+                    "price": 690,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "醬燒鰻茶泡飯",
+                    "price": 710,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "純粹茶泡飯",
+                    "price": 300,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "白燒脆皮鰻單點",
+                    "price": 750,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "醬燒脆皮鰻單點",
+                    "price": 830,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "白燒鰻手卷",
+                    "price": 180,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "醬燒鰻手卷",
+                    "price": 200,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "鰻骨仙貝",
+                    "price": 170,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "蟹味可樂餅2個",
+                    "price": 260,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "白松露脆薯180g",
+                    "price": 260,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "帶骨德式香腸2支",
+                    "price": 230,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "天婦羅炸蝦2隻",
+                    "price": 230,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "酥炸廣島牡蠣2個",
+                    "price": 250,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "唐揚雞塊8個",
+                    "price": 230,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "薯餅8個",
+                    "price": 210,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "莫札瑞拉乳酪條6個",
+                    "price": 290,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "洋蔥圈10個",
+                    "price": 230,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "酥炸脆薯",
+                    "price": 150,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "炸物拼盤小",
+                    "price": 480,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "炸物拼盤大",
+                    "price": 600,
+                    "enName": "",
+                    "note": ""
+                },
+                {
+                    "name": "蕈菇味噌湯",
+                    "price": 80,
+                    "enName": "",
+                    "note": ""
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "shot",
-      "name": "Shot(單杯)",
-      "enName": "Shot",
-      "icon": "liquor",
-      "items": []
-    },
-    {
-      "id": "spirits",
-      "name": "烈酒",
-      "enName": "Spirits",
-      "icon": "liquor",
-      "items": [
-        {
-          "name": "野格香甜酒（搭紅牛四罐）",
-          "enName": "Jägermeister (with 4 Red Bulls)",
-          "price": 3200
-        },
-        {
-          "name": "軒尼詩 V.S.O.P",
-          "enName": "HENNESSY V.S.O.P",
-          "price": 4000
-        },
-        {
-          "name": "大摩 12年",
-          "enName": "DALMORE 12Y",
-          "price": 4000
-        },
-        {
-          "name": "百富 12年",
-          "enName": "BALVENIE 12Y",
-          "price": 4000
-        },
-        {
-          "name": "格蘭菲迪15年",
-          "enName": "GLENFIDDICH 15Y",
-          "price": 3800
-        },
-        {
-          "name": "約翰走路黑牌威士忌",
-          "enName": "Johnnie Walker Black Label",
-          "price": 400,
-          "note": "單杯"
-        },
-        {
-          "name": "傑克丹尼爾田納西威士忌",
-          "enName": "Jack Daniel's Tennessee Whiskey",
-          "price": 400,
-          "note": "單杯"
-        },
-        {
-          "name": "美格波本威士忌",
-          "enName": "Maker's Mark Bourbon",
-          "price": 400,
-          "note": "單杯"
-        },
-        {
-          "name": "軒尼斯VSOP",
-          "enName": "HENNESSY V.S.O.P (Glass)",
-          "price": 400,
-          "note": "單杯"
-        },
-        {
-          "name": "軒尼斯VSOP",
-          "enName": "HENNESSY V.S.O.P (Glass)",
-          "price": 400,
-          "note": "單杯"
-        },
-        {
-          "name": "人頭馬VSOP",
-          "enName": "RÉMY MARTIN V.S.O.P (Glass)",
-          "price": 400,
-          "note": "單杯"
-        }
-      ]
-    },
-    {
-      "id": "single-shot-spirits",
-      "name": "美食佳餚",
-      "enName": "Single Shot Spirits",
-      "icon": "glass_cup",
-      "items": [
-        {
-          "name": "肉絲蛋炒飯",
-          "enName": "",
-          "price": 150
-        },
-        {
-          "name": "冷筍沙拉",
-          "enName": "",
-          "price": 200
-        },
-        {
-          "name": "蔥蛋",
-          "enName": "",
-          "price": 200
-        },
-        {
-          "name": "菜脯蛋",
-          "enName": "",
-          "price": 200
-        },
-        {
-          "name": "季節時蔬",
-          "enName": "",
-          "price": 200
-        },
-        {
-          "name": "炸蚵酥",
-          "enName": "",
-          "price": 220
-        },
-        {
-          "name": "炒螺肉",
-          "enName": "",
-          "price": 280
-        },
-        {
-          "name": "客家小炒",
-          "enName": "",
-          "price": 280
-        },
-        {
-          "name": "椒鹽下巴",
-          "enName": "",
-          "price": 280
-        },
-        {
-          "name": "椒鹽龍珠",
-          "enName": "",
-          "price": 280
-        },
-        {
-          "name": "蔥爆牛肉",
-          "enName": "",
-          "price": 280
-        },
-        {
-          "name": "宮保雞丁",
-          "enName": "",
-          "price": 280
-        },
-        {
-          "name": "客家鹹豬肉",
-          "enName": "",
-          "price": 300
-        },
-        {
-          "name": "炒三鮮",
-          "enName": "",
-          "price": 300
-        },
-        {
-          "name": "香煎魚肚",
-          "enName": "",
-          "price": 380
-        }
-      ]
-    },
-    {
-      "id": "soft-drinks",
-      "name": "軟飲",
-      "enName": "Soft Drinks",
-      "icon": "local_drink",
-      "items": [
-        {
-          "name": "可樂",
-          "enName": "Coke",
-          "price": 200
-        },
-        {
-          "name": "雪碧",
-          "enName": "Sprite",
-          "price": 200
-        },
-        {
-          "name": "蘇打水",
-          "enName": "Soda Water",
-          "price": 200
-        },
-        {
-          "name": "通寧水",
-          "enName": "Tonic Water",
-          "price": 200
-        },
-        {
-          "name": "柳橙汁",
-          "enName": "Orange Juice",
-          "price": 200
-        },
-        {
-          "name": "蔓越莓汁",
-          "enName": "Cranberry Juice",
-          "price": 200
-        },
-        {
-          "name": "蘋果汁",
-          "enName": "Apple Juice",
-          "price": 200
-        },
-        {
-          "name": "無糖綠茶",
-          "enName": "Sugar-free Green Tea",
-          "price": 200
-        },
-        {
-          "name": "紅茶",
-          "enName": "Black Tea",
-          "price": 200
-        },
-        {
-          "name": "奶茶",
-          "enName": "Milk Tea",
-          "price": 250
-        },
-        {
-          "name": "紅牛",
-          "enName": "Red Bull",
-          "price": 250
-        }
-      ]
-    },
-    {
-      "id": "food",
-      "name": "美食",
-      "enName": "",
-      "icon": "wine_bar",
-      "items": [
-        {
-          "name": "醬燒鰻魚飯",
-          "price": 680,
-          "enName": "",
-          "note": ""
-        }
-      ]
-    }
-  ]
+    ]
 }
