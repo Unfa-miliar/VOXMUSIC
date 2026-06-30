@@ -264,7 +264,14 @@
       "name": "美食",
       "enName": "",
       "icon": "wine_bar",
-      "items": []
+      "items": [
+        {
+          "name": "醬燒鰻魚飯",
+          "price": 680,
+          "enName": "",
+          "note": ""
+        }
+      ]
     }
   ]
 }
